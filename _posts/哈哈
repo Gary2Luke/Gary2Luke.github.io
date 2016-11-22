@@ -1,1 +1,7 @@
-Hello 
+---
+layout:     post
+title:      hello world
+category: blog
+description: 。
+---
+Hello
