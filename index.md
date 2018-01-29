@@ -7,9 +7,9 @@ layout: default
     <div class="aside">
       <div class="info-card">
         <h1>Gary2Luke</h1>
-        <a href="http://weibo.com/2285663530/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="70"/></a> 
-        <a href="https://github.com/Gary2Luke/" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="70"/></a>        
-        <a href="https://www.facebook.com/profile.php?id=100007921934416" target="_blank"><img src="http://www.facebook.com/favicon.ico" alt="" width="70"/></a> 
+        <a href="http://weibo.com/2285663530/" target="_blank"><img src="http://www.weibo.com/favicon.ico" alt="" width="60"/></a> 
+        <a href="https://github.com/Gary2Luke/" target="_blank"><img src="https://github.com/favicon.ico" alt="" width="60"/></a>        
+        <a href="https://www.facebook.com/profile.php?id=100007921934416" target="_blank"><img src="http://www.facebook.com/favicon.ico" alt="" width="60"/></a> 
       </div>
       <div id="particles-js"></div>
     </div>
